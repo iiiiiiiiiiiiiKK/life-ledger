@@ -10,12 +10,5 @@ export default defineConfig({
     include: ['src/**/*.test.ts', 'src/**/*.test.tsx'],
     setupFiles: ['src/test/setup.ts'],
     globals: false,
-    // CI 上 fork 池偶发 EPERM，单线程串行更稳
-    pool: 'threads',
-    poolOptions: {
-      threads: {
-        singleThread: true,
-      },
-    },
   },
 });
