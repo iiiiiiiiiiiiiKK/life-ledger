@@ -14,7 +14,7 @@
 
 **作者 𝕏：[https://x.com/0xkillcoin](https://x.com/0xkillcoin)**
 
-**在线试用：[https://321.market/life-ledger/](https://321.market/life-ledger/)**
+**在线试用：[https://iiiiiiiiiiiiikk.github.io/life-ledger/](https://iiiiiiiiiiiiikk.github.io/life-ledger/)**
 
 ---
 
@@ -90,7 +90,7 @@ pnpm build       # 产物在 dist/
 pnpm preview     # 本地预览
 ```
 
-在线试用：**[https://321.market/life-ledger/](https://321.market/life-ledger/)**
+在线试用：**[https://iiiiiiiiiiiiikk.github.io/life-ledger/](https://iiiiiiiiiiiiikk.github.io/life-ledger/)**
 
 ---
 
